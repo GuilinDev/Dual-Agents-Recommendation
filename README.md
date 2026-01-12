@@ -137,19 +137,6 @@ Our experiments demonstrate:
 - **4.3% relative HV improvement** over single-population baselines
 - Adaptive LLM coordination provides interpretable resource allocation decisions
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@inproceedings{dualagent2026,
-  title={DualAgent-Rec: LLM-Coordinated Dual-Agent Framework for Constrained Multi-Objective E-commerce Recommendation},
-  author={Anonymous},
-  booktitle={Proceedings of the WWW 2026 Workshop on LLM \& Agents for Recommendation Systems},
-  year={2026}
-}
-```
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
