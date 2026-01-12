@@ -1,4 +1,4 @@
-# DualAgent-Rec: LLM-Coordinated Dual-Agent Framework for Constrained Multi-Objective E-commerce Recommendation
+# LLMs as Orchestrators: Constraint-Compliant Multi-Agent Optimization for Recommendation Systems
 
 This repository contains the implementation of **DualAgent-Rec**, an LLM-coordinated dual-agent framework for constrained multi-objective e-commerce recommendation.
 
